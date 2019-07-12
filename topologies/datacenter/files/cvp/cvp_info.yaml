@@ -11,6 +11,9 @@ cvp_info:
       - spine2
     CVX:
       - cvx01
+    Hosts:
+      - host1
+      - host2
   snapshots:
     - name: Validate_Routing
       commands:
